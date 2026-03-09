@@ -1,18 +1,59 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>AI and Generative AI powered product experiments including a Resume Analyzer built using AI tools and automated workflows (Lovable + n8n). Focused on building AI-first product prototypes, defining problem statements, and validating product ideas quickly.<br><br>👯 I’m looking to collaborate on<br>AI and Generative AI product experiments, agentic workflows, and early-stage product prototypes that explore how LLMs can improve hiring, productivity, and decision-making tools.<br><br>🤝 I’m looking for help with<br>Advanced AI and Generative AI product experimentation, LLM evaluation frameworks, prompt engineering for product use cases, and building scalable AI product workflows.<br><br>🌱 I’m currently learning<br>AI Product Management, Generative AI applications, Agentic AI systems, LLM-powered product design, product analytics, and rapid prototyping using no-code/low-code AI tools.<br><br>💬 Ask me about<br>AI and Generative AI product strategy, problem framing, product discovery, building MVPs with AI tools, and translating product ideas into prototypes.<br><br>⚡ Fun fact<br>I enjoy turning product ideas into working AI or Generative AI prototypes in a weekend to test whether the problem is worth solving.<br>
+<div align="center">
+  <h1>Hi, I'm Veer Kapoor 🚀</h1>
+  <h3>AI Product Manager | Systems Architect | Enterprise Infrastructure</h3>
+  <p align="center">
+    <strong>Bridging Generative AI with Scalable Cloud Infrastructure to build high-ROI product ecosystems.</strong>
+  </p>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/veer-kapoor-573949a7) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kapoorveer7@gmail.com) 
-
-# 💻 Tech Stack:
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=veer2702 &theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=veer2702 &theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=veer2702 &theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  <p align="center">
+    <a href="mailto:kapoorveer7@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://www.linkedin.com/in/veer-kapoor-573949a7"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  </p>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=veer2702 &icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💡 Executive Summary
+
+I am an AI Product Manager with a heavy-duty technical foundation in **GitHub Enterprise Administration, AWS Cloud Architecture, and CI/CD Orchestration.** Unlike traditional PMs, I view AI through the lens of **Structural Reform.** I don't just build "wrappers"; I design agentic workflows that solve systemic inefficiencies. My current focus is transforming **HR Tech** by leveraging LLM-based evaluation frameworks to reduce bias and increase hiring velocity.
+
+---
+
+## 🏆 Flagship Product: Recruit-AI (Resume Analyzer)
+
+I am currently shipping **Recruit-AI**, a sophisticated AI-native platform that automates the candidate screening process using agentic workflows.
+
+> **[View the Flagship Repository Here →](https://github.com/Veer-Kapoor/Recruit-AI)** *(Update link once created)*
+
+### 🛠️ The Challenge & The Solution
+* **The Problem:** Traditional ATS systems rely on keyword matching, missing high-potential talent and increasing recruiter burnout.
+* **The Solution:** A multi-agent workflow (Lovable + n8n) that performs **Semantic Analysis** of resumes against Job Descriptions, generating structured scorecards and "fit" justifications.
+* **The Tech:** Lovable (Frontend), n8n (Orchestration), OpenAI (LLM Layer).
+
+### 📄 Product Artifacts within the Repo
+* **[Product Requirements Document (PRD)](./docs/PRD.md):** Defining the "Why," User Stories, and Success Metrics.
+* **[LLM Eval Framework](./docs/evals.md):** How I measure prompt accuracy and reduce hallucinations.
+* **[Architecture Diagram](./docs/architecture.png):** Visualizing the flow from Resume Upload → n8n Webhook → LLM Parsing → Data Output.
+
+---
+
+## 🛠️ Core Competencies & Tech Stack
+
+| AI Product Strategy | Infrastructure & DevOps (3+ Yrs) | Tools & Frameworks |
+| :--- | :--- | :--- |
+| **Agentic Workflow Design** | **GitHub Enterprise Admin** | Lovable & n8n |
+| **LLM Prompt Engineering** | **CI/CD Pipeline Design** | Figma (UX/UI) |
+| **Market Discovery & PRDs** | **AWS Cloud Solutions** | Python & SQL |
+| **AI Evaluation Metrics** | **System Security & Auth** | Jira / Agile |
+
+---
+
+## 📈 My AI Product Lifecycle
+
+```mermaid
+graph LR;
+    A[Problem Discovery] --> B[PRD & Strategy];
+    B --> C[No-Code Prototyping];
+    C --> D[LLM Prompt Eval];
+    D --> E[Scalable Cloud Architecture];
+    E --> F[Continuous Iteration];
